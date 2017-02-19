@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.0.0",
+  "description":"本例子来源于简书网作者<lvsjack1><http://www.jianshu.com/p/3b045636bcec>",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"

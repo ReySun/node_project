@@ -1,6 +1,7 @@
 {
   "name": "node-blog",
   "version": "0.0.0",
+  "description": "本例子来源于简书网作者<fwytech><http://www.jianshu.com/p/fb87757180db>,感谢作者！",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
